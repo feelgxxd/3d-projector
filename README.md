@@ -12,4 +12,4 @@ Then you can run the app by sending
 ```py main.py```
 to the terminal.
 
-You can also find the related information on [my website](berkbeken.xo.je)
+You can also find the related information on [my website](https://berkbeken.xo.je)
