@@ -13,3 +13,4 @@ Then you can run the app by sending
 to the terminal.
 
 You can also find the related information on [my website](https://berkbeken.xo.je)
+![GIF-29-08-2025-16-06-10](https://github.com/user-attachments/assets/e2df35a3-cccf-4738-8833-5abe0ca42a0b)
